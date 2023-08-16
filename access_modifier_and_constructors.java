@@ -44,7 +44,8 @@ class access_mod {
     }
 }
 
-// Class for showing constructor behaviour
+// Class for showing constructor behaviour & 
+// constructor have no return type because it doesn't return any thing just setup the initial setting of class
 
 class for_constructor {
     for_constructor() {
